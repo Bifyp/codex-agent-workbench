@@ -1,0 +1,14 @@
+.env
+.telegram-api.env
+*.session
+*.sqlite3
+topics.json
+tasks/
+work/
+.agent-data/
+.agent-state/
+service.log
+*.log
+__pycache__/
+.venv/
+.venv312/
