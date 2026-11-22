@@ -63,3 +63,10 @@ See [the free setup guide](docs/free-setup.md) before configuring providers. “
 - [Инструкция Claude Code + FreeLLMAPI + LiteLLM](https://github.com/shashankpandya/claude-code-freellmapi): стороннее руководство по совместимости. Это не официальная интеграция; сверяйся с текущими версиями оригинальных проектов.
 
 В [инструкции по бесплатной настройке](docs/free-setup.md) описано, что проверить. Бесплатность зависит от выбранного провайдера, тарифа, квот и актуальных условий. Шаблон не может гарантировать, что сторонний маршрут всегда будет бесплатным.
+
+
+## Telegram Relay Core
+
+The reusable Telegram relay source is in [`relay/`](relay/). It includes the task controller, Telegram transport, forum-topic management, readable progress rendering, BotFather setup, and Windows startup scripts. The relay supports `/auto` for choosing one suitable agent, explicit agent commands, `/team` for an intentional multi-agent workflow, and independent task IDs.
+
+The public repository contains only source and templates. It does not contain bot tokens, Telegram sessions, provider keys, local model profiles, databases, task journals, or installed agent binaries. Start with [`relay/README.md`](relay/README.md) and copy [`relay/.env.example`](relay/.env.example) to a private local `.env`.
