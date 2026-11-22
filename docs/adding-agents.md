@@ -31,4 +31,4 @@ enabled = false
 base_url = "http://127.0.0.1:8082/v1"
 ~~~
 
-Do not enable a provider until its installation, authentication, license, and billing behavior have been reviewed. For Free-Claude-Code and FreeLLMAPI, see [free-setup.md](free-setup.md).
+The local FreeLLMAPI catalog also lists optional tools in [freellmapi-agents.md](freellmapi-agents.md). Do not enable a provider until its installation, authentication, license, and billing behavior have been reviewed. For Free-Claude-Code and FreeLLMAPI, see [free-setup.md](free-setup.md).
