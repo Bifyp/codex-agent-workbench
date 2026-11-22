@@ -1,3 +1,34 @@
+<div align="center">
+
+~~~text
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║
+██╔══██╗██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║
+██████╔╝██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝
+~~~
+
+**// CODEX-AGENT-WORKBENCH · PROJECT README**
+
+*source · setup · architecture · security*
+
+[![README style](https://img.shields.io/badge/README-Codex%20Style-00D9FF?style=for-the-badge)](https://github.com/Bifyp/codex-agent-workbench)
+
+</div>
+
+---
+
+## > PROJECT.STATUS
+
+| FIELD | VALUE |
+|:--|:--|
+| Repository | Bifyp/codex-agent-workbench |
+| Documentation | Russian README + English README.en.md |
+| Secrets | Never commit tokens, keys, sessions, or .env files |
+
+## > PROJECT.DOCUMENTATION
+
 # Codex Agent Workbench
 
 [English](#english) | [Русский](#русский)
