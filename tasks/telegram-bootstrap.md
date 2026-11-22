@@ -9,7 +9,7 @@ Copy the task below into the Telegram group connected to MyTerminal.
 You are the lead. Create and actually run three bounded subagent tasks, each in its own Telegram topic if the relay supports topics:
 1. Architecture subagent: propose and implement the smallest useful Codex-only project skeleton and adapter boundary. Do not activate other agents.
 2. Documentation subagent: review and improve the bilingual README plus the agent-extension and free-only setup guides, including Free-Claude-Code (FCC) and FreeLLMAPI.
-3. Review subagent: independently check secrets hygiene, licensing/attribution, free-vs-paid routing risks, and consistency; report findings with file/line references.
+3. Review subagent: independently check secrets hygiene, licensing/attribution, free-vs-paid routing risks, and consistency; report findings with file/line references.\n\nUse docs/freellmapi-agents.md as the requested optional integration catalog. Include its entries as disabled/opt-in profiles or clearly documented candidates; do not install tools or enable all providers by default.
 
 Coordinate shared files to avoid conflicting edits. Integrate the subagents' actual changes, resolve conflicts, and verify the final tree. If subagents or Telegram topics are unavailable, report that limitation instead of claiming they were created or used.
 
