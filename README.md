@@ -19,6 +19,7 @@ A clean, Codex-first starter repository for building a collaborative agent works
 - [AGENTS.md](AGENTS.md): repository-specific instructions for Codex.
 - [docs/adding-agents.md](docs/adding-agents.md): a provider-neutral extension guide.
 - [docs/free-setup.md](docs/free-setup.md): a no-provider-billing setup guide for Free-Claude-Code and FreeLLMAPI.
+- [docs/freellmapi-agents.md](docs/freellmapi-agents.md): the additional optional agents shown in FreeLLMAPI.exe.
 - [tasks/telegram-bootstrap.md](tasks/telegram-bootstrap.md): a ready-to-send task prompt for Telegram, including actual subagent delegation.
 - [.gitignore](.gitignore): common local secrets and generated files.
 
@@ -49,6 +50,7 @@ See [the free setup guide](docs/free-setup.md) before configuring providers. “
 - [AGENTS.md](AGENTS.md): инструкции Codex для этого репозитория.
 - [docs/adding-agents.md](docs/adding-agents.md): руководство по добавлению агентов.
 - [docs/free-setup.md](docs/free-setup.md): настройка без платных API-маршрутов для Free-Claude-Code и FreeLLMAPI.
+- [docs/freellmapi-agents.md](docs/freellmapi-agents.md): дополнительные необязательные агенты из FreeLLMAPI.exe.
 - [tasks/telegram-bootstrap.md](tasks/telegram-bootstrap.md): готовое задание для Telegram с реальной работой субагентов.
 - [.gitignore](.gitignore): локальные секреты и генерируемые файлы.
 
