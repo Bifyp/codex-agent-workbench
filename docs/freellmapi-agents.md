@@ -2,7 +2,7 @@
 
 **Observed in FreeLLMAPI.exe on 2026-11-22.** The app showed 21 integration cards. This document records the additional catalog entries requested for this Codex-first starter. Catalog contents may change with app updates.
 
-The starter already covers Codex CLI, Claude Code through the Free-Claude-Code (FCC) path, and Hermes Agent through FreeLLMAPI. They are omitted below. The remaining catalog entries are optional candidates; listing them does not mean they are installed, supported by this template, or enabled.
+The Codex CLI, Claude Code through Free-Claude-Code (FCC), and Hermes Agent are omitted from this additional-options list as the three baseline tools for this setup. This starter still configures Codex only. The remaining entries are optional candidates; listing them does not mean they are installed, supported by this template, or enabled.
 
 ## Additional catalog entries
 
